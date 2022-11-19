@@ -1,0 +1,17 @@
+{
+	"format_version": 1,
+	"header": {
+		"description": "",
+		"name": "pvp test",
+		"uuid": "02b99225-b7ac-48d0-9344-253a99add39b",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 0, 0]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "d425e15b-740a-4a73-9023-9f27be059d5f",
+			"version": [1, 0, 0]
+		}
+	]
+}
